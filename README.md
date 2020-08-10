@@ -1,1 +1,1 @@
-[![PKShrestha's github stats](https://github-readme-stats.vercel.app/api?username=pradhyu)]
+![PKShrestha's github stats](https://github-readme-stats.vercel.app/api?username=pradhyu)
