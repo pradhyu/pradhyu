@@ -1,1 +1,1 @@
-![PKShrestha's github stats](https://github-readme-stats.vercel.app/api?username=pradhyu)
+https://awesome-github-stats.azurewebsites.net/user-stats/pradhyu
